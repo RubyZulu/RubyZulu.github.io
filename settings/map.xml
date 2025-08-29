@@ -10,7 +10,7 @@
 +3	Strongly Agree
 +4	Most Strongly Agree -->
    <map version="1.0" htmlParse="false">
-     <column id="-4" colour="FFD5D5" label="Least Strongly Disagree">2</column>
+     <column id="-4" colour="FFD5D5" label="Most Strongly Disagree">2</column>
      <column id="-3" colour="FFD5D5" label="Strongly Disagree">3</column>
      <column id="-2" colour="FFD5D5" label="Disagree">4</column>
      <column id="-1" colour="FFD5D5" label="Somewhat Disagree">5</column>
